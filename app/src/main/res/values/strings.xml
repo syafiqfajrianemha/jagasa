@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jagasa</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="placeholder_search">Cari hewan...</string>
+</resources>
